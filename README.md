@@ -4,7 +4,7 @@
 
 #### Tutorial Completo en [Zacetrex](http://zacetrex.com)
 
-![](https://zacetrex.com/wp-content/uploads/2025/02/Kit-Brazo-ESP32.png)
+![](https://raw.githubusercontent.com/Zacetrex/Kit-Brazo-ESP32-con-Bluetooth/refs/heads/main/Kit%20Brazo%20ESP32.png)
 
 ------------
 
