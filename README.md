@@ -1,4 +1,4 @@
-![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-scaled.webp)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-vert-celeste2-scaled.webp)
 
 #  Kit de Brazo con ESP32 con aplicación
 
